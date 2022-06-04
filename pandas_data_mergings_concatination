@@ -1,0 +1,8 @@
+1) inner join, one-to-many, multiple dataframes
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22639%2Fchapter1.pdf#page=18&zoom=auto,-29,284
+2) left join and others, merge to itself, merge on index
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22639%2Fchapter2.pdf#page=1&zoom=auto,-29,692
+3) filtering joins, concatination, vertify integrity
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22639%2Fchapter3.pdf#page=1&zoom=auto,-29,692
+4) merge_ordered, merge_asof, .query(), .melt()
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22639%2Fchapter4.pdf#page=1&zoom=auto,-29,692
