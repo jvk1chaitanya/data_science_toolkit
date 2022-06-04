@@ -1,1 +1,10 @@
 DataFrames
+1) intro to dataframes, sorting and subsetting, new columns
+   https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22066%2Fchapter1.pdf#page=33&zoom=auto,-29,108
+2) statistics, counting, pivot tables
+   https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22066%2Fchapter2.pdf#page=31&zoom=page-width,-29,32
+3) explicit indexing, loc & iloc, working with pivot tables
+   https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22066%2Fchapter3.pdf#page=1&zoom=auto,-29,691
+4) visualizing data, missing values, R&W csv
+   https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F22066%2Fchapter4.pdf#page=1&zoom=auto,-29,691
+   
