@@ -1,0 +1,22 @@
+part 1
+1) intro, using pandas with seaborn, hue
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F15192%2Fchapter1.pdf#page=22&zoom=page-width,-29,478
+2) relational vs scatterplots (relplot vs scatterplot), customize, lineplots
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F15192%2Fchapter2.pdf#page=22&zoom=page-width,-29,478
+3) countplot and barplot, boxplot, pointplot, all combined in catplot
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F15192%2Fchapter3.pdf#page=22&zoom=page-width,-29,478
+4) changing plot style and color, facetgrids vs axesSubplots
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F15192%2Fchapter4.pdf#page=22&zoom=page-width,-29,478
+
+
+part 2
+1) histplot vs displot, regplot vs lmplot
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F6919%2Fchapter1.pdf#page=1&zoom=auto,-29,691
+2) sns.set(), set_palette(), combine sns plots
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F6919%2Fchapter2.pdf#page=1&zoom=auto,-29,691
+3) stripplot(), swarmplot(), boxplot, violinplot, boxenplot, barplot, pointplot, countplot, regplot, residplot, heatmap, countplot
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F6919%2Fchapter3.pdf#page=1&zoom=auto,-29,691
+4) facetgrid, catplot, lmplot, pairgrid, pairplot, jointgrid, jointplot, selecting plots
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F6919%2Fchapter4.pdf#page=1&zoom=auto,-29,691
+    
+    
