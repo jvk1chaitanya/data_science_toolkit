@@ -1,0 +1,14 @@
+part 1
+1) user-defined funtions, tuples
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1532%2Fslides%2Fchapter1.pdf#page=1&zoom=auto,-29,691
+2) scope, nested funtions, args
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1532%2Fslides%2Fchapter2.pdf#page=1&zoom=auto,-29,691
+3) lambda funtions, map(), error handling
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1532%2Fslides%2Fchapter3.pdf#page=1&zoom=auto,-29,691
+
+
+part 2
+1) loops and iterators, iterating over dicts, iterating over file, enumerate, zip, iterating to load large files
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1531%2Fslides%2Fchapter1.pdf#page=1&zoom=auto,-29,691
+2) list, range, nested loops, comprehensions(short funtions), generator vs list comprehesions, generator function
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1531%2Fslides%2Fchapter2.pdf#page=1&zoom=auto,-29,691
