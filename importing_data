@@ -1,0 +1,16 @@
+part 1
+1) reading text file using open() and read(), numpy loadtxt(), pandas read_csv()
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1607%2Fslides%2Fchapter1.pdf#page=1&zoom=auto,-29,692
+2) pickle, pandas ExcelFile(), sas7bdat, h5py(hdf5), scipy(matlab)
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1607%2Fslides%2Fchapter2.pdf#page=1&zoom=auto,-29,692
+3) intro rdbms, sqlalchemy(read sql statements), context manager(no need to open and close connections individually), join basics
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1607%2Fslides%2Fchapter3.pdf#page=1&zoom=auto,-29,692
+
+
+part 2
+1) urlretrive, urlopen and request, requests(more effective than previous), BeautifulSoup(extract html)
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1606%2Fslides%2Fchapter1.pdf#page=1&zoom=auto,-29,691
+2) json, requests for apis
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1606%2Fslides%2Fchapter2.pdf#page=1&zoom=auto,-29,691
+3) tweeppy and json(collect data from twitter api)
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fproduction%2Fcourse_1606%2Fslides%2Fchapter3.pdf#page=1&zoom=auto,-29,691
