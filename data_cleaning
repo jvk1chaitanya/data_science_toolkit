@@ -1,0 +1,9 @@
+1) str to int, assert(prints if false), categorical, outof range values, uniqueness, treat duplicated values
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F24364%2Fchapter1.pdf#page=1&zoom=auto,-29,691
+2) finding & dropping inconsistent data, reparing value inconsistency, collapse data into new column, cleaning text
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F24364%2Fchapter2.pdf#page=1&zoom=auto,-29,691
+3) uniformity, cross field validation, completeness, missing no( graph to visualize and understand missing data), dealing missing data
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F24364%2Fchapter3.pdf#page=1&zoom=auto,-29,691
+4) comparing strings (partially matching), generating pairs using record linkage, linking dataframes
+    https://campus.datacamp.com/campus/pdf/web/viewer.html?file=https%3A%2F%2Fprojector-video-pdf-converter.datacamp.com%2F24364%2Fchapter4.pdf#page=1&zoom=auto,-29,691
+5) 
